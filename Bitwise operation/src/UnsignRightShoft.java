@@ -6,6 +6,7 @@ public class UnsignRightShoft {
 		
 		int a=-10;
 		System.out.println(a>>>24);
+		System.out.println(a>>>2);
 
 	}
 
