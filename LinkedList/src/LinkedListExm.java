@@ -36,7 +36,7 @@ public class LinkedListExm {
 		 Object element=object.get(2);
 		 System.out.println("Elements return by get: " + element);  
 		 System.out.println("object list: " + object);  
-		 // set eleemnts into list
+		 // set elements into list
 		 object.set(3, "GA");
 		 System.out.println("object list after change: " + object);  
 		 
