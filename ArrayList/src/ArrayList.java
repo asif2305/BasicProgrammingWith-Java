@@ -5,6 +5,7 @@ public class ArrayList {
 		
 		int number=3;
 		int data;
+		
 
 	}
 
