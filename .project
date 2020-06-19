@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ArrayList</name>
 	<comment></comment>
 	<projects>
@@ -13,5 +14,14 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+=======
+	<name>BasicProgrammingWith-Java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+>>>>>>> branch 'master' of https://github.com/asif2305/BasicProgrammingWith-Java.git
 	</natures>
 </projectDescription>

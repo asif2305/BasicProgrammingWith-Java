@@ -24,7 +24,7 @@ public class CallByValue {
 	CallByValue objCallByReferance=new CallByValue();
 	System.out.println("Before Change "+ objCallByReferance.data);
 	objCallByReferance.callByReferanceChange(objCallByReferance);
-	System.out.println("After change "+ objCallByReferance.data);
+	System.out.println("After Change "+ objCallByReferance.data);
 		
 
 	}
