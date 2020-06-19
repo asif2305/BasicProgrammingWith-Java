@@ -37,7 +37,7 @@ public class LinkedListMain {
 		myLinkedList.pushElementBefore(7);
 		myLinkedList.addElementAtTheEnd(10);
 		
-		myLinkedList.printList();
+		//myLinkedList.printList();
 
 	}
 

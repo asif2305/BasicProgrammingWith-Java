@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Bitwise operation/src"/>
+	<classpathentry kind="src" path="CallByValueAndReferance/src"/>
+	<classpathentry kind="src" path="CheckArray/src"/>
+	<classpathentry kind="src" path="Constructor/src"/>
+	<classpathentry kind="src" path="Enumerations/src"/>
+	<classpathentry kind="src" path="LinkedList/src"/>
+	<classpathentry kind="src" path="PermutationAndCombinationForBinomialCoefficient/src"/>
+	<classpathentry kind="src" path="Stack/src"/>
+	<classpathentry kind="output" path="Bitwise operation/bin"/>
+</classpath>

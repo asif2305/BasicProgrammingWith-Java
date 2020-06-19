@@ -10,14 +10,16 @@ public class SinglyLinkedList {
        Put in the data*/
 	   
 	   Node newNode=new Node(dataElements);
-//	   System.out.println(newNode.data + " "+ newNode.next);
+   System.out.println(newNode.data + " "+ newNode.next);
 	   /* 3. Make next of new Node as head */
-	   
+  
 	   newNode.next=head;
 	   
 	   /* 4. Move the head to point to new Node */
 	   
 	   head=newNode;
+	   printList();
+	  
    }
    
    /* Appends a new node at the end.  This method is  
